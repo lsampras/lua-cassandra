@@ -10,7 +10,8 @@ description = {
 }
 dependencies = {
   "luabitop-53plus",
-  "luasocket"
+  "luasocket",
+  "luasec"
 }
 build = {
   type = "builtin",
